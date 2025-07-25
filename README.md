@@ -34,6 +34,7 @@ I'm a **Full-Stack Developer & DSA Enthusiast** passionate about building scalab
 - 📧 Email: 
 - 🔗 LinkedIn: https://www.linkedin.com/in/mohammed-safwan1919/
 - 💻 GitHub: https://github.com/Safwan-1919
+- 🧑‍💻 Twitter: https://x.com/Safwan1919
 
 ### ⭐ Fun Fact
 I love optimizing applications for performance and efficiency, and I'm always eager to learn new technologies!
