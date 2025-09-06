@@ -90,3 +90,78 @@ End-to-end airline reservation system with **seamless booking, cancellation, and
 <img src="https://github-readme-stats.vercel.app/api?username=Safwan-1919&show_icons=true&theme=tokyonight&hide_border=true" height="165">
 <img src="https://streak-stats.demolab.com?user=Safwan-1919&theme=tokyonight&hide_border=true" height="165">
 </p>
+
+---
+
+<hr>
+<h2 align="center">🔥 Languages, Frameworks, Tools & Abilities 🔥</h2>
+<br>
+<p align="center">
+  <code><img title="C" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
+  <code><img title="C++" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
+  <code><img title="Python" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+  <code><img title="Java" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
+  <code><img title="Salesforce" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg"></code>
+  <code><img title="HTML5" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+  <code><img title="CSS3" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+  <code><img title="JavaScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+  <code><img title="TypeScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
+  <code><img title="React" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
+  <code><img title="NodeJS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
+  <code><img title="MongoDB" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
+  <code><img title="MySQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
+  <code><img title="Google Cloud" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"></code>
+  <code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+  <code><img title="GitHub" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
+  <code><img title="Linux" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
+</p>
+<hr>
+
+<h2 align="center">🚀 Featured Projects 🚀</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Safwan-1919/DeLearner" title="DeLearner – AI Code Reviewing Agent"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Safwan-1919&repo=DeLearner&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Safwan-1919/RealTimeChatApp" title="Real-Time Chat Application"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Safwan-1919&repo=RealTimeChatApp&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Safwan-1919/Airline-Database-System" title="Airline Database Management System"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Safwan-1919&repo=Airline-Database-System&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/Safwan-1919?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+
+<hr>
+
+<h2 align="center">🎓 Education 🎓</h2>
+<br>
+<p align="center">
+   <b>Bachelor of Engineering in Computer Science & Engineering</b><br>
+   P.A. College of Engineering, Mangalore, Karnataka (2022–2026)<br>
+   CGPA: <b>8.5 / 10</b>
+</p>
+
+<hr>
+
+<h2 align="center">📜 Certifications 📜</h2>
+<br>
+<p align="center">
+  ✅ CS50: Introduction to Computer Science – Harvard University (2023)<br>
+  ✅ Web Development Bootcamp – Udemy (2024)<br>
+  ✅ Data Structures & Algorithms – GeeksforGeeks (2025)<br>
+  ✅ Salesforce Developer Intern Training – Novigo Solutions (2025)<br><br>
+  
+  <img src="https://img.shields.io/badge/Harvard-CS50-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Udemy-Web%20Development-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GFG-DSA%20Certification-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Salesforce-Developer-blue?style=for-the-badge"/>
+</p>
+
+<hr>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
