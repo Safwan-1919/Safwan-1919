@@ -1,5 +1,5 @@
 <!-- Banner / Header -->
-![Hey there, I'm Safwan. A passionate developer, learner, and builder.](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
+
 
 # 👋 Mohammed Safwan  
 
