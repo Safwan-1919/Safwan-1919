@@ -95,12 +95,16 @@ End-to-end airline reservation system with **seamless booking, cancellation, and
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safwan-1919&hide=c%23,powershell,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Safwan-1919&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Safwan-1919&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://streak-stats.demolab.com?user=Safwan-1919&theme=tokyonight&hide_border=true" height="165">
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safwan-1919&hide=c%23,powershell,Ruby,Objective-C,Objective-C%2b%2b,Cuda&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Safwan-1919&theme=tokyonight&hide_border=true" width="100%">
+</p>
+
