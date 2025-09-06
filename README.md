@@ -87,15 +87,6 @@ End-to-end airline reservation system with **seamless booking, cancellation, and
 ### 📊 GitHub Stats  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Safwan-1919&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-<img src="https://streak-stats.demolab.com?user=Safwan-1919&theme=tokyonight&hide_border=true" height="165">
-</p>
-
----
-
-<h2 align="center">⚡ Stats ⚡</h2>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Safwan-1919&show_icons=true&theme=tokyonight&hide_border=true" height="165">
   <img src="https://streak-stats.demolab.com?user=Safwan-1919&theme=tokyonight&hide_border=true" height="165">
 </p>
