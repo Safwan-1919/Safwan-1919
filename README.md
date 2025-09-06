@@ -26,67 +26,68 @@ I'm a Computer Science & Engineering student (2022–2026) with a strong passion
 ### 🛠️ Skills & Tools  
 
 <p align="center">
-<img alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-<img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-<img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
-<img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-<img alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
-<img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-<img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img alt="Google Cloud" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
-<img alt="Salesforce" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg"/>
-<img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+   <img alt="C" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+   <img alt="C++" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+   <img alt="Python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+   <img alt="HTML" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+   <img alt="CSS" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
+   <img alt="JavaScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+   <img alt="TypeScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
+   <img alt="React" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+   <img alt="Node.js" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+   <img alt="MongoDB" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+   <img alt="MySQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+   <img alt="Google Cloud" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
+   <img alt="Salesforce" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg"/>
+   <img alt="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+   <img alt="GitHub" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </p>  
+
+<p align="center">
+   <img src="https://img.shields.io/badge/Frontend-React,_HTML,_CSS,_JS-blue?style=flat-square"/>
+   <img src="https://img.shields.io/badge/Backend-Node.js,_Express-green?style=flat-square"/>
+   <img src="https://img.shields.io/badge/Databases-MongoDB,_MySQL-orange?style=flat-square"/>
+   <img src="https://img.shields.io/badge/Cloud-GCP,_Salesforce-lightgrey?style=flat-square"/>
+   <img src="https://img.shields.io/badge/Version%20Control-Git,_GitHub-critical?style=flat-square"/>
+</p>
 
 ---
 
 ### 🚀 Featured Projects  
 
-💡 **DeLearner – AI Code Reviewing Agent (2025)**  
-An AI-powered assistant that reviews code line by line, explains issues, suggests fixes, and analyzes time/space complexity with one-click corrections.  
+#### 🔹 DeLearner – AI Code Reviewing Agent (2025)  
+AI-powered assistant that **reviews code line by line**, explains errors, suggests fixes, and provides **time/space complexity** with one-click corrections.  
+*Tech stack:* Python, LLMs, React  
 
-💬 **Real-Time Chat Application (2024)**  
-A modern messaging platform built with **React, Node.js, Express, and Socket.IO** supporting private & group chats, authentication, and persistent history with **MongoDB**.  
+#### 🔹 Real-Time Chat Application (2024)  
+A modern chat platform supporting **private/group chats**, **authentication**, and persistent history using **Socket.IO + MongoDB**.  
+*Tech stack:* React, Node.js, Express, Socket.IO, MongoDB  
 
-✈️ **Airline Database Management System (2024)**  
-A full-stack airline reservation platform with seamless rebooking, booking history, and cancellation features using **Node.js & MongoDB**.  
-
----
-
-### 🏆 Achievements & Hackathons  
-
-🏅 **Runner-up – HackSummit 2025** (GLUG, P.A. College of Engineering)  
-Developed a web-based safety system with voice-activated SOS, live location tracking, and AI-driven threat detection.  
-
-💻 **Code Meet Hackathon 2024**  
-Collaborated with a team to prototype a complete web solution in just 24 hours.  
+#### 🔹 Airline Database Management System (2024)  
+End-to-end airline reservation system with **seamless booking, cancellation, and rebooking features**.  
+*Tech stack:* Node.js, Express, MongoDB  
 
 ---
 
 ### 🎓 Education  
 
-**B.E. Computer Science & Engineering (2022–2026)**  
-📍 P.A. College of Engineering, Mangalore, Karnataka  
-📊 CGPA: **8.5 / 10**  
+📍 **B.E. Computer Science & Engineering**  
+**P.A. College of Engineering, Mangalore, Karnataka (2022–2026)**  
+CGPA: **8.5 / 10**  
+Specializing in **Full-Stack Development, Salesforce, and AI Applications**  
 
 ---
 
 ### 📜 Certifications  
 
-- CS50: Introduction to Computer Science – *Harvard University (2023)*  
-- Web Development – *Udemy (2024)*  
-- Data Structures & Algorithms – *GeeksforGeeks (2025)*  
-
----
-
-### 📊 GitHub Stats  
+✅ **CS50: Introduction to Computer Science** – *Harvard University (2023)*  
+✅ **Web Development Bootcamp** – *Udemy (2024)*  
+✅ **Data Structures & Algorithms Mastery** – *GeeksforGeeks (2025)*  
+✅ **Salesforce Developer Intern Training** – *Novigo Solutions (2025)*  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Safwan-1919&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-<img src="https://streak-stats.demolab.com?user=Safwan-1919&theme=tokyonight&hide_border=true" height="165">
+   <img src="https://img.shields.io/badge/Harvard-CS50-red?style=for-the-badge"/>
+   <img src="https://img.shields.io/badge/Udemy-Web%20Development-purple?style=for-the-badge"/>
+   <img src="https://img.shields.io/badge/GFG-DSA%20Certification-brightgreen?style=for-the-badge"/>
+   <img src="https://img.shields.io/badge/Salesforce-Developer-blue?style=for-the-badge"/>
 </p>
