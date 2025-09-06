@@ -105,6 +105,6 @@ End-to-end airline reservation system with **seamless booking, cancellation, and
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Safwan-1919&theme=tokyonight&hide_border=true" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Safwan-1919&theme=tokyo-night&hide_border=true" width="100%">
 </p>
 
