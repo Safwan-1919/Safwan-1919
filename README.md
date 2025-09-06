@@ -10,6 +10,10 @@
 
 **`Full-Stack Developer | Salesforce Intern | Problem Solver`**  
 
+<p align="center">
+  <img src="https://i.ibb.co/D9H0vCs/luffy-banner-sample.png" alt="banner" width="100%">
+</p>
+
 I'm a Computer Science & Engineering student (2022–2026) with a strong passion for building scalable software, modern web applications, and AI-driven tools. Currently interning at **Novigo Solutions** as a Salesforce Developer, I focus on solving real-world problems with creativity, resilience, and continuous learning.  
 
 ---
