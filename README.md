@@ -1,7 +1,7 @@
 <!-- Banner / Header -->
 
 
-# 👋 Mohammed Safwan  
+# 👨🏻‍💼 Mohammed Safwan  
 
 **`Full-Stack Developer | Salesforce Intern | Problem Solver`**  
 
