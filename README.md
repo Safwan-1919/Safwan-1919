@@ -60,7 +60,12 @@
 
 ---
 
-### 🚀 Featured Projects  
+<p align="center">
+  <img src="https://github.com/Safwan-1919/Safwan-1919/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<details>
+<summary>🚀 Featured Projects</summary>
 
 🔹 **DeLearner – AI Code Reviewing Agent (2025)**  
 An AI-powered assistant that reviews code line by line, explains issues, suggests fixes, and analyzes time/space complexity.  
@@ -73,18 +78,17 @@ Messaging platform with **private/group chats**, authentication, and persistent 
 🔹 **Airline Database Management System (2024)**  
 End-to-end airline reservation system with **seamless booking, cancellation, and rebooking features**.  
 *Tech stack:* Node.js, Express, MongoDB  
+</details>
 
----
-
-### 🎓 Education  
-
+<details>
+<summary>🎓 Education</summary> 
 **Bachelor of Engineering – Computer Science & Engineering (2022–2026)**  
 📍 *P.A. College of Engineering, Mangalore, Karnataka*  
 📊 CGPA: **8.5 / 10**  
+</details>
 
----
-
-### 📜 Certifications  
+<details>
+  <summary>📜 Certifications</summary>
 
 - **CS50: Introduction to Computer Science** – Harvard University *(2023)*  
 - **Web Development Bootcamp** – Udemy *(2024)*  
@@ -97,6 +101,8 @@ End-to-end airline reservation system with **seamless booking, cancellation, and
    <img src="https://img.shields.io/badge/GFG-DSA%20Certification-brightgreen?style=for-the-badge"/>
    <img src="https://img.shields.io/badge/Salesforce-Developer-blue?style=for-the-badge"/>
 </p>
+
+</details>
 
 ---
 
