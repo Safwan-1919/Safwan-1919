@@ -68,13 +68,6 @@ End-to-end airline reservation system with **seamless booking, cancellation, and
 
 ---
 
-### 📊 GitHub Stats  
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Safwan-1919&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-<img src="https://streak-stats.demolab.com?user=Safwan-1919&theme=tokyonight&hide_border=true" height="165">
-</p>
-
 ### 📜 Certifications  
 
 - **CS50: Introduction to Computer Science** – Harvard University *(2023)*  
@@ -87,4 +80,13 @@ End-to-end airline reservation system with **seamless booking, cancellation, and
    <img src="https://img.shields.io/badge/Udemy-Web%20Development-purple?style=for-the-badge"/>
    <img src="https://img.shields.io/badge/GFG-DSA%20Certification-brightgreen?style=for-the-badge"/>
    <img src="https://img.shields.io/badge/Salesforce-Developer-blue?style=for-the-badge"/>
+</p>
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Safwan-1919&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+<img src="https://streak-stats.demolab.com?user=Safwan-1919&theme=tokyonight&hide_border=true" height="165">
 </p>
