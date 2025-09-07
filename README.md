@@ -39,10 +39,10 @@
   <a href="https://leetcode.com/9IYnHTo7YF">
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-  <a href="https://www.hackerrank.com/YOUR_USERNAME">
+  <a href="https://www.hackerrank.com/profile/4pa22cs072">
     <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/YOUR_USERNAME/practice">
+  <a href="https://www.geeksforgeeks.org/user/4pa22cnvwv/">
     <img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
   <a href="https://github.com/Safwan-1919?tab=repositories&sort=stargazers">
