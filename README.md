@@ -39,8 +39,10 @@
   </a>
   <a href="https://www.hackerrank.com/YOUR_USERNAME">
     <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-   <a href="https://github.com/Safwan-1919?tab=followers">
-      <img alt="followers" src="https://custom-icon-badges.demolab.com/github/followers/Safwan-1919?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    </a>
+   <a href="https://auth.geeksforgeeks.org/user/YOUR_USERNAME/practice">
+    <img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
    <a href="https://github.com/Safwan-1919?tab=repositories&sort=stargazers">
       <img alt="stars" src="https://custom-icon-badges.demolab.com/github/stars/Safwan-1919?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </a>
