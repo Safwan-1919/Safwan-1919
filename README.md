@@ -34,7 +34,7 @@
   </a>
    <a href="mailto:safwancoding1919@gmail.com">
       <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/YOUR_USERNAME">
+  <a href="[https://leetcode.com/YOUR_USERNAME](https://leetcode.com/u/9IYnHTo7YF/)">
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   <a href="https://www.hackerrank.com/YOUR_USERNAME">
