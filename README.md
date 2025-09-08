@@ -111,17 +111,14 @@ End-to-end airline reservation system with **seamless booking, cancellation, and
 <details>
   <summary>📜 Certifications</summary>
 
-- **CS50: Introduction to Computer Science** – Harvard University *(2023)*  
-- **Web Development Bootcamp** – Udemy *(2024)*  
-- **Data Structures & Algorithms Mastery** – GeeksforGeeks *(2025)*  
-- **Salesforce Developer Intern Training** – Novigo Solutions *(2025)*  
+<div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+  
+  <!-- LeetCode Badge -->
+  <a href="https://leetcode.com/medal/?showImg=0&id=7980251&isLevel=false" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/lg2550.png" width="130" height="130" alt="LeetCode Badge"/>
+  </a>
 
-<p align="center">
-   <img src="https://img.shields.io/badge/Harvard-CS50-red?style=for-the-badge"/>
-   <img src="https://img.shields.io/badge/Udemy-Web%20Development-purple?style=for-the-badge"/>
-   <img src="https://img.shields.io/badge/GFG-DSA%20Certification-brightgreen?style=for-the-badge"/>
-   <img src="https://img.shields.io/badge/Salesforce-Developer-blue?style=for-the-badge"/>
-</p>
+</div>
 
 </details>
 
