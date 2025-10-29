@@ -117,6 +117,9 @@ End-to-end airline reservation system with **seamless booking, cancellation, and
   <a href="https://leetcode.com/medal/?showImg=0&id=7980251&isLevel=false" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/others/lg2550.png" width="130" height="130" alt="LeetCode Badge"/>
   </a>
+  <a href="https://leetcode.com/medal/?showImg=0&id=8507419&isLevel=false" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/lg25100.png" width="130" height="130" alt="LeetCode Badge"/>
+  </a>
 
 </div>
 
